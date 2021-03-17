@@ -1,1 +1,1 @@
-# digits-recogiation
+# Share my code about basic deep learning model
